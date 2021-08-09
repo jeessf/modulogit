@@ -1,5 +1,4 @@
 Meu primeiro sistema no GIT.
 
-Alteraçao ....
-
+Alteraçao
 alteração feita no master
